@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Navigation Drawer Example</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+
+    <string name="facebook_page">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="communication">Communication</string>
+    <string name="nav_rate">Rate or Feedback</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_privacy_policy">Privacy Policy</string>
+    <string name="nav_terms_conditions">Terms and Conditions</string>
+    <string name="Email">navigation@gmail.com</string>
+
+
+</resources>

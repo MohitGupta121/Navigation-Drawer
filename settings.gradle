@@ -1,0 +1,2 @@
+rootProject.name = "Sarkari Yojana by Mohit Gupta"
+include ':app'

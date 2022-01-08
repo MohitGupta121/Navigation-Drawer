@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/facebook"
+            android:title="@string/facebook_page" />
+        <item
+            android:id="@+id/instagram"
+            android:icon="@drawable/instagram"
+            android:title="@string/instagram" />
+
+
+    </group>
+
+    <item android:title="@string/communication">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/rate"
+                android:title="@string/nav_rate" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/nav_share" />
+
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:icon="@drawable/privacy"
+                android:title="@string/nav_privacy_policy" />
+
+            <item
+                android:id="@+id/nav_terms_conditions"
+                android:icon="@drawable/terms"
+                android:title="@string/nav_terms_conditions" />
+
+        </menu>
+    </item>
+
+
+</menu>
