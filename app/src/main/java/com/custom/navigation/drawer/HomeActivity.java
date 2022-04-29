@@ -129,7 +129,7 @@ public class HomeActivity extends AppCompatActivity {
                 .setPositiveButton("Yes", (dialog, which) -> finish())
                 .setNegativeButton("No", (dialog, which) -> dialog.cancel())
                 .setNeutralButton("Our More Apps", (dialog, which) -> {
-                    Intent more_apps = new Intent(Intent.ACTION_VIEW, Uri.parse("http://play.google.com/store/apps/developer?id=Android"));
+                    Intent more_apps = new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps"));
                     startActivity(more_apps);
                 });
 
